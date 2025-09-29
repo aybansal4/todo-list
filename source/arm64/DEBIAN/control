@@ -1,0 +1,10 @@
+Package: todo
+Version: 1.0.0
+Architecture: arm64
+Maintainer: Ayan Bansal <ayanbansal4@gmail.com>
+Depends: g++
+Section: utils
+Priority: optional
+Description: Simple CLI To-Do List Manager
+ A lightweight command-line to-do list manager written in C++.
+ Supports adding, listing, and removing tasks.
